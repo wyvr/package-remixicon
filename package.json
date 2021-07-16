@@ -1,0 +1,21 @@
+{
+  "name": "package-remixicon",
+  "version": "0.0.0",
+  "description": "wyvr generator package to handle remixicons",
+  "main": "wyvr.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "wyvr",
+    "package",
+    "remixicon",
+    "plugin",
+    "assets"
+  ],
+  "author": "wyvr",
+  "license": "MIT",
+  "dependencies": {
+    "remixicon": "^2.5.0"
+  }
+}
