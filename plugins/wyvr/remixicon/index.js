@@ -22,7 +22,7 @@ module.exports = {
             return [err, config, file, content, head, body];
         },
     },
-    release: {
+    optimize: {
         before: async (...args) => {
             // write used icons file
             Logger.debug(`[package-remixicon] use ${used_remixicons.length} icons`);
