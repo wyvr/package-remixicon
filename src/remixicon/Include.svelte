@@ -1,5 +1,5 @@
 <script>
-    import Stylesheet from '@src/component/Stylesheet.svelte';
+    import Stylesheet from '@src/wyvr/Stylesheet.svelte';
     const use_shrinked = _inject('global.env', 'dev') == 'prod';
 </script>
 
