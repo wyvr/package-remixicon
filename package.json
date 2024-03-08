@@ -17,6 +17,6 @@
   "author": "wyvr",
   "license": "MIT",
   "dependencies": {
-    "remixicon": "^2.5.0"
+    "remixicon": "^4.2.0"
   }
 }
