@@ -1,6 +1,6 @@
 {
   "name": "package-remixicon",
-  "version": "0.0.0",
+  "version": "0.1.0",
   "description": "wyvr generator package to handle remixicons",
   "main": "wyvr.js",
   "type": "module",

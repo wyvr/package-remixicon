@@ -8,7 +8,7 @@ Place the tag in your desired doc, inside teh head tag to integrate it.
 
 ```
 <script>
-    import RemixiconInclude from '@src/component/remixicon/Include.svelte';
+    import RemixiconInclude from '$src/component/remixicon/Include.svelte';
 </script>
 
 <head>
