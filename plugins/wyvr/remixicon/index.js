@@ -1,6 +1,6 @@
 import { filled_array } from "wyvr/src/utils/validate.js";
 import { read, write } from "wyvr/src/utils/file.js";
-import { logger } from "wyvr/universal.js";
+import { logger } from "wyvr/universal";
 
 // plugin to reduce the size of the remixicons
 // by searching unused icons and removing them
